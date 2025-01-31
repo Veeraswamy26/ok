@@ -1,0 +1,98 @@
+Advanced Data Logging
+
+Side,,Left
+Day month year time,,27 12 2024  11:04
+
+Data Per Preset
+
+\,Volume,Hours
+Preset1,0,1.818,
+Preset2,0,0.008,
+Preset3,0,6.607,
+Preset4,0,0,
+Preset5,0,0,
+Preset6,0,0,
+Preset7,0,0,
+Preset8,0,0,
+
+Other data (aggregate)
+No. preset switches,,,,2
+No. device boots,,,,11
+No. power off,,,,1
+Total use time (hours),,,,49.518,
+Total time in charger (hours),,,,107.574,
+Use time Mi link up (hours),,,,0,
+Use time Mi link down (hours),,,,0,
+
+Histogram on Time (bins in hours)
+\,0- 4 h,4- 8 h,8- 12 h,12- 16 h,16- 20 h,> 20 h
+# of uses,10,1,0,0,0,0,
+
+Histogram on Input power for Preset 1     (bins in dB SPL Use time in hours))
+\,0- 40 dB,40- 50 dB,50- 60 dB,60- 70 dB,70- 80 dB,80- 90 dB,> 90 dB,
+Use time,0.031,0.031,0.039,1.707,0.011,0,0,
+
+
+For next two histograms   Q : Quiet  S : Speech  Sp.N : speech in noise  N : noise    S<60 : occurrence of Speech below 60 db SPL   
+
+Mean Volume Control Level (dB) per environment in Preset1  
+\,,Q,S<60,S>60,Sp.N<75,Sp.N>75,N<75,N>75
+Mean Vol. Level,,0,0,0,0,0,0,0,
+
+Classified Environment per preset in hours
+\,Q,S<60,S>60,Sp.N<75,Sp.N>75,N<75,N>75
+Preset0,0.053,0,0,0.039,0,1.711,0,
+Preset1,0.004,0,0,0,0,0.004,0,
+Preset2,0.012,0,0,0.022,0,6.572,0,
+Preset3,0,0,0,0,0,0,0,
+
+
+Histogram on Mean Volume Control Level (in dB)
+\,,276h,264h,252h,240h,228h,216h,204h,192h,180h,168h,156h,144h,132h,120h,108h,96h,84h,72h,60h,48h,36h,24h,12h,0h
+Mean Vol. Lev,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.047,
+
+Use time Histogram Bass Auto steering is generic for Bass45 Bass5 and Bass6
+
+Use time Histogram Bass45 (in hours),PR = Pinna Restoration ,BesF = BesFocus          BesM = BesMonitorMonaural ,Bin. Switch BesM/BesF    --> BesF/BesM     ,BesF/BesF
+Use time Histogram Bass5 (in hours) ,PR = Pinna Restoration ,BesF = BesFocusBilateral BesM = BesMonitorMonaural ,Bin. Switch BesM/BesFBil --> BesFBil/BesM  ,BesFBil/BesFBil
+Use time Histogram Bass6 (in hours) ,PR = Pinna Restoration ,BesF = BesFocusBilateral BesM = TrueOmni           ,Bin. Switch BesM/BesFBil --> BesFBil/BesM  ,BesFBil/BesFBil
+BesM = Better Ear Strategy asymmetrical pattern Monitor
+BesF = Better Ear Strategy asymmetrical pattern Focus
+TrueOmni is the bilateral Omni Pattern
+\,PR/PR,BesM/BesF,Bin. Switch,BesF/BesF
+Use time,0,0,0,0
+
+Satisfy progress Percentage for HI and binaural paired HI.
+HI Satisfy progress(%) :, 0
+HI binaural paired Satisfy Progress(%) :, 0
+
+Histogram on Use Time from Full Charge to Low Bat
+\,0- 10 h,10- 12 h,12- 14 h,14- 16 h,16- 18 h,18- 20 h,20- 22 h,22- 24 h,24- 26 h,26- 28 h,28- 30 h,> 30 h
+# of uses,0,0,0,0,0,0,0,0,0,0,0,0,
+
+Histogram on Battery Level when Entering Charger
+\,Lvl 0,Lvl 1,Lvl 2,Lvl 3,Lvl 4,Lvl 5,Lvl 6,Lvl 7,Lvl 8,Lvl 9,Lvl 10,
+# of uses,0,0,0,0,0,0,0,0,9,0,0,
+
+Histogram on Battery Level when Exiting Charger
+\,Lvl 0,Lvl 1,Lvl 2,Lvl 3,Lvl 4,Lvl 5,Lvl 6,Lvl 7,Lvl 8,Lvl 9,Lvl 10,
+# of uses,0,0,0,0,0,0,0,0,8,0,1,
+
+Histogram on Charging Time
+\,0- 0.5 h,0.5- 1 h,1- 1.5 h,1.5- 2 h,2- 2.5 h,2.5- 3 h,3- 3.5 h,3.5- 4 h,4- 4.5 h,> 4.5 h
+# of uses,1,0,0,0,0,0,0,0,0,0,
+
+Histogram on Idle Time in Charger
+\,0- 2 h,2- 4 h,4- 6 h,6- 8 h,8- 10 h,10- 12 h,12- 14 h,> 14 h
+# of uses,0,0,0,0,0,0,0,0,
+
+Epson Charger
+EpsonChargerHalfHourError, 0
+EpsonChargerVoltageCommonCollectorLowError, 0
+EpsonChargerTempLowError, 0
+EpsonChargerFlashCycleError, 0
+EpsonChargerOverVoltageError, 0
+EpsonChargerFlashSystemError, 0
+EpsonChargerBatteryError, 0
+EpsonChargerAdError, 0
+EpsonChargerTempHighError, 0
