@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpdatePackage>
+  <FirmwareVersion></FirmwareVersion>
+  <Certificate CertificateType="ReSound.Ratatosk.FirmwareCertificate">
+    <SignatureType>Rsa2048</SignatureType>
+    <PayloadSizeIn16BitWords>52</PayloadSizeIn16BitWords>
+    <CertificateVersion>2</CertificateVersion>
+    <CertificateType>Firmware</CertificateType>
+    <HsmType>0</HsmType>
+    <HsmId>0</HsmId>
+    <Signature>{65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535, 65535}</Signature>
+    <IntendedHWPlatform>7</IntendedHWPlatform>
+    <IntendedSWPlatform>7</IntendedSWPlatform>
+    <DspFWVersion>{51, 68, 48, 49, 55, 49}</DspFWVersion>
+    <RadioFWVersion>{0, 0}</RadioFWVersion>
+    <AddressFirmwareStart>0</AddressFirmwareStart>
+    <LengthFirmware>0</LengthFirmware>
+    <ImageType>3</ImageType>
+    <Spare1>2</Spare1>
+    <HashAlgorithmType>2</HashAlgorithmType>
+    <Crc>{188, 86, 195, 118, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}</Crc>
+    <Hash4K>{255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255}</Hash4K>
+    <Hash>{125, 100, 86, 184, 207, 13, 81, 192, 238, 135, 94, 186, 238, 42, 217, 93, 54, 49, 108, 114, 226, 246, 54, 133, 41, 47, 61, 242, 218, 11, 127, 160}</Hash>
+  </Certificate>
+  <DeviceUpdateChunk IncludeHeader="True" IsCompressed="True">EAAA/A8AY2AYBaNgFIxUAAAA</DeviceUpdateChunk>
+</UpdatePackage>
