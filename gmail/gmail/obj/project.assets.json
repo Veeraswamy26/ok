@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iray\\source\\repos\\gmail\\gmail\\gmail.csproj",
+      "projectUniqueName": "C:\\Users\\iray\\folder\\gmail\\gmail\\gmail.csproj",
       "projectName": "gmail",
-      "projectPath": "C:\\Users\\iray\\source\\repos\\gmail\\gmail\\gmail.csproj",
+      "projectPath": "C:\\Users\\iray\\folder\\gmail\\gmail\\gmail.csproj",
       "packagesPath": "C:\\Users\\iray\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iray\\source\\repos\\gmail\\gmail\\obj\\",
+      "outputPath": "C:\\Users\\iray\\folder\\gmail\\gmail\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iray\\AppData\\Roaming\\NuGet\\NuGet.Config",
