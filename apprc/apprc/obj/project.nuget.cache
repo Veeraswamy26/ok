@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1EjnBKBD+P4=",
+  "dgSpecHash": "kG45BsAgYt4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\iray\\source\\repos\\apprc\\apprc\\apprc.csproj",
+  "projectFilePath": "C:\\Users\\iray\\folder\\apprc\\apprc\\apprc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iray\\.nuget\\packages\\appium.webdriver\\4.4.5\\appium.webdriver.4.4.5.nupkg.sha512",
     "C:\\Users\\iray\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",

@@ -23,12 +23,12 @@ namespace apprc.utility
         //    Console.WriteLine(xpath);
         //    return xpath;
         //}
-        public static Dictionary<string, string> xpathDictionary; // Dictionary to store XPaths
+        public static Dictionary<string, string>xpathDictionary; // Dictionary to store XPaths
 
         // Constructor to Load Data into Dictionary
         public convert()
         {
-            string filePath = "C:\\Users\\iray\\source\\repos\\apprc\\apprc\\testdata\\xpath.json";
+            string filePath = "C:\\Users\\iray\\folder\\apprc\\apprc\\testdata\\xpath.json";
             string jsonString = File.ReadAllText(filePath);
             var xpaths = JObject.Parse(jsonString);
 

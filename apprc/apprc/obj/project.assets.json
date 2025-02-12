@@ -6783,11 +6783,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iray\\source\\repos\\apprc\\apprc\\apprc.csproj",
+      "projectUniqueName": "C:\\Users\\iray\\folder\\apprc\\apprc\\apprc.csproj",
       "projectName": "apprc",
-      "projectPath": "C:\\Users\\iray\\source\\repos\\apprc\\apprc\\apprc.csproj",
+      "projectPath": "C:\\Users\\iray\\folder\\apprc\\apprc\\apprc.csproj",
       "packagesPath": "C:\\Users\\iray\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iray\\source\\repos\\apprc\\apprc\\obj\\",
+      "outputPath": "C:\\Users\\iray\\folder\\apprc\\apprc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iray\\AppData\\Roaming\\NuGet\\NuGet.Config",

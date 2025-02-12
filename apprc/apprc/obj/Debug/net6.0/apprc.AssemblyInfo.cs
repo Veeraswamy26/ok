@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("apprc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cadf381746ee198e7a50dfa4d20ede74601b987")]
 [assembly: System.Reflection.AssemblyProductAttribute("apprc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("apprc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

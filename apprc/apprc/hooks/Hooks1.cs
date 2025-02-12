@@ -20,7 +20,7 @@ namespace apprc.hooks
 
                 appOptions.AddAdditionalCapability("deviceName", "google pixel");
                 appOptions.AddAdditionalCapability("platformVersion", "15");
-                appOptions.AddAdditionalCapability("udid", "33301JEHN01912");
+                appOptions.AddAdditionalCapability("udid", "2C161FDH200BEZ");
                 appOptions.AddAdditionalCapability("app", "C:\\Users\\iray\\Downloads\\TestMultiplePlugins.apk");
                 appOptions.AddAdditionalCapability("uiautomator2ServerInstallTimeout", 180000);
                 //  appOptions.AddAdditionalCapability("automationName", "UiAutomator2");
