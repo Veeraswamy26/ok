@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\iray\\folder\\testmultipleplugin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF7CD895-8EE2-4FBB-B40E-9166948F6D6C}|testmultipleplugin\\testmultipleplugin.csproj|c:\\users\\iray\\folder\\testmultipleplugin\\testmultipleplugin\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF7CD895-8EE2-4FBB-B40E-9166948F6D6C}|testmultipleplugin\\testmultipleplugin.csproj|solutionrelative:testmultipleplugin\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF7CD895-8EE2-4FBB-B40E-9166948F6D6C}|testmultipleplugin\\testmultipleplugin.csproj|c:\\users\\iray\\folder\\testmultipleplugin\\testmultipleplugin\\features\\feature1.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BF7CD895-8EE2-4FBB-B40E-9166948F6D6C}|testmultipleplugin\\testmultipleplugin.csproj|solutionrelative:testmultipleplugin\\features\\feature1.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF7CD895-8EE2-4FBB-B40E-9166948F6D6C}|testmultipleplugin\\testmultipleplugin.csproj|c:\\users\\iray\\folder\\testmultipleplugin\\testmultipleplugin\\drivers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF7CD895-8EE2-4FBB-B40E-9166948F6D6C}|testmultipleplugin\\testmultipleplugin.csproj|solutionrelative:testmultipleplugin\\drivers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF7CD895-8EE2-4FBB-B40E-9166948F6D6C}|testmultipleplugin\\testmultipleplugin.csproj|c:\\users\\iray\\folder\\testmultipleplugin\\testmultipleplugin\\features\\feature1.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BF7CD895-8EE2-4FBB-B40E-9166948F6D6C}|testmultipleplugin\\testmultipleplugin.csproj|solutionrelative:testmultipleplugin\\features\\feature1.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF7CD895-8EE2-4FBB-B40E-9166948F6D6C}|testmultipleplugin\\testmultipleplugin.csproj|c:\\users\\iray\\folder\\testmultipleplugin\\testmultipleplugin\\stepdefinitions\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF7CD895-8EE2-4FBB-B40E-9166948F6D6C}|testmultipleplugin\\testmultipleplugin.csproj|solutionrelative:testmultipleplugin\\stepdefinitions\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7CD895-8EE2-4FBB-B40E-9166948F6D6C}|testmultipleplugin\\testmultipleplugin.csproj|c:\\users\\iray\\folder\\testmultipleplugin\\testmultipleplugin\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7CD895-8EE2-4FBB-B40E-9166948F6D6C}|testmultipleplugin\\testmultipleplugin.csproj|solutionrelative:testmultipleplugin\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Feature1.feature",
               "DocumentMoniker": "C:\\Users\\iray\\folder\\testmultipleplugin\\testmultipleplugin\\Features\\Feature1.feature",
               "RelativeDocumentMoniker": "testmultipleplugin\\Features\\Feature1.feature",
@@ -64,20 +60,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Hooks.cs",
               "DocumentMoniker": "C:\\Users\\iray\\folder\\testmultipleplugin\\testmultipleplugin\\Hooks\\Hooks.cs",
               "RelativeDocumentMoniker": "testmultipleplugin\\Hooks\\Hooks.cs",
               "ToolTip": "C:\\Users\\iray\\folder\\testmultipleplugin\\testmultipleplugin\\Hooks\\Hooks.cs",
               "RelativeToolTip": "testmultipleplugin\\Hooks\\Hooks.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T08:51:05.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "steps.cs",
               "DocumentMoniker": "C:\\Users\\iray\\folder\\testmultipleplugin\\testmultipleplugin\\StepDefinitions\\steps.cs",
               "RelativeDocumentMoniker": "testmultipleplugin\\StepDefinitions\\steps.cs",
@@ -87,6 +83,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T08:50:49.535Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
