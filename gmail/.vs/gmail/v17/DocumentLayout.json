@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\iray\\source\\repos\\gmail\\",
+  "WorkspaceRootPath": "C:\\Users\\iray\\folder\\gmail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7859966A-7135-44B2-9CB1-C40FC4751C77}|gmail\\gmail.csproj|c:\\users\\iray\\source\\repos\\gmail\\gmail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7859966A-7135-44B2-9CB1-C40FC4751C77}|gmail\\gmail.csproj|c:\\users\\iray\\folder\\gmail\\gmail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7859966A-7135-44B2-9CB1-C40FC4751C77}|gmail\\gmail.csproj|solutionrelative:gmail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\gmail\\gmail\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\folder\\gmail\\gmail\\Program.cs",
               "RelativeDocumentMoniker": "gmail\\Program.cs",
-              "ToolTip": "C:\\Users\\iray\\source\\repos\\gmail\\gmail\\Program.cs",
+              "ToolTip": "C:\\Users\\iray\\folder\\gmail\\gmail\\Program.cs",
               "RelativeToolTip": "gmail\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAswBIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

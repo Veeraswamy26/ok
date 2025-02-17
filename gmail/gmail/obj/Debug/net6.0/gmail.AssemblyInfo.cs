@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gmail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a81a91d075e09ede0270487ec1f404a8b52dceb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("gmail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gmail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
